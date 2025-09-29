@@ -1,0 +1,10 @@
+# This directory is intended for feature modules.
+# Each feature should be a self-contained module with its own routes, controllers, services, and repositories.
+
+# Example structure for a 'game' module:
+# src/modules/game/
+# ├── game.controller.ts
+# ├── game.routes.ts
+# ├── game.service.ts
+# ├── game.repository.ts
+# └── game.types.ts
